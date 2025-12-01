@@ -22,13 +22,13 @@ The dataset contained detailed attributes:
 
 🔑 Key Insights Included:
 
- • Overall engagement metrics – likes, comments, shares & subscriber growth
- • Recommendation effectiveness – CTR and impact of suggested videos
- • Watch time & viewing behavior – average duration, peak hours, binge patterns
- • Device & category insights – content preferences across mobile, desktop & smart TV
- • Trend analysis of viewing behavior over time
- • Audience segmentation by age group & content type
- • Dynamic slicers and measures for flexible exploration.
+ - Overall engagement metrics – likes, comments, shares & subscriber growth
+ - Recommendation effectiveness – CTR and impact of suggested videos
+ - Watch time & viewing behavior – average duration, peak hours, binge patterns
+ - Device & category insights – content preferences across mobile, desktop & smart TV
+ - Trend analysis of viewing behavior over time
+ - Audience segmentation by age group & content type
+ - Dynamic slicers and measures for flexible exploration.
 
  🛠️ Power BI Skills Practiced
  
